@@ -30,18 +30,31 @@ namespace SassAndCoffee
 
         public void Init(HttpApplication context)
         {
-            var srs = new ScriptRuntimeSetup() {HostType = typeof (ResourceAwareScriptHost)};
-            srs.AddRubySetup();
-            var runtime = Ruby.CreateRuntime(srs);
-            var engine = runtime.GetRubyEngine();
-            engine.SetSearchPaths(new List<string>() {@"R:\lib\ironruby", @"R:\lib\ruby\1.9.1"});
+        	var setup = IronRuby.Ruby.CreateRubySetup();
 
-            var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.lib.sass_in_one.rb"), SourceCodeKind.File);
+					  setup.Options.Add("SearchPaths",new List<string>() { 
+							@"E:\Code\SassAndCoffee\packages\compass.net.0.0.1\tools\sass-3.1.1\lib",
+							@"E:\Code\SassAndCoffee\packages\compass.net.0.0.1\tools\compass-0.11.1\lib",
+							@"E:\Code\SassAndCoffee\packages\compass.net.0.0.1\tools\chunky_png-1.1.1\lib",
+							@"E:\Code\SassAndCoffee\packages\compass.net.0.0.1\tools\fssm-0.2.7\lib",
+						});
+					var srs = new ScriptRuntimeSetup();
+        	srs.LanguageSetups.Add(setup);
+        	var runtime = Ruby.CreateRuntime(srs);
+            var engine = runtime.GetRubyEngine();
+						
+
+            var source = engine.CreateScriptSourceFromString(@"
+require 'compass'
+require 'compass/exec'
+", SourceCodeKind.Statements);
+
+					
             var scope = engine.CreateScope();
             source.Execute(scope);
 
-            _scssOption = engine.Execute("{:syntax => :scss}"); 
-            _sassOption = engine.Execute("{:syntax => :sass}"); 
+            _scssOption = engine.Execute("{:syntax => :scss, :load_paths => ['E:/Code/SassAndCoffee/packages/compass.net.0.0.1/tools/compass-0.11.1/frameworks/blueprint/stylesheets','E:/Code/SassAndCoffee/packages/compass.net.0.0.1/tools/compass-0.11.1/frameworks/compass/stylesheets','E:/Code/SassAndCoffee/WebTest/Content/sass']}"); 
+            _sassOption = engine.Execute("{:syntax => :sass, :load_paths => ['E:\\Code/SassAndCoffee/packages/compass.net.0.0.1/tools/compass-0.11.1/frameworks/blueprint/stylesheets','E:/Code/SassAndCoffee/WebTest/Content/sass']}"); 
             _sassModule = scope.Engine.Runtime.Globals.GetVariable("Sass");
         }
 
@@ -71,6 +84,10 @@ namespace SassAndCoffee
 
     public class ResourceAwarePAL : PlatformAdaptationLayer
     {
+			private string[] _searchDirectories = new string[]
+			                                      	{
+			@"E:\Code\SassAndCoffee\packages\compass.net.0.0.1\tools\compass-0.11.1\frameworks\blueprint\stylesheets\"                                      		
+    };
         public override System.IO.Stream OpenInputFileStream(string path)
         {
             var ret = Assembly.GetExecutingAssembly().GetManifestResourceStream(pathToResourceName(path));
@@ -78,6 +95,13 @@ namespace SassAndCoffee
                 return ret;
             }
 
+					var searchPaths = _searchDirectories.Select(x => Path.Combine(x, path.Replace('/', '\\')));
+        	var foundPath = searchPaths.FirstOrDefault(File.Exists);
+					if(foundPath != null)
+					{
+						return base.OpenInputFileStream(foundPath);
+					}
+					
             return base.OpenInputFileStream(path);
         }
 
@@ -87,7 +111,14 @@ namespace SassAndCoffee
                 return true;
             }
 
-            return base.FileExists(path);
+        	var searchPaths = _searchDirectories.Select(x => Path.Combine(x, path.Replace('/', '\\')));
+					if(searchPaths.Any(File.Exists))
+					{
+						return true;
+					}
+            var baseExists =  base.FileExists(path);
+
+        	return baseExists;
         }
 
         string pathToResourceName(string path)

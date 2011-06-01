@@ -50,7 +50,7 @@ namespace SassAndCoffee
 
             // Does the cached version of the file not exist? Build it!
             var outFile = new FileInfo(getOutputFilePath(context, fi.FullName));
-            if (!outFile.Exists) {
+            if (true || !outFile.Exists) {
                 using (var of = File.Create(outFile.FullName)) {
                     // FIXME: This is clearly performance-retarded, but it'll 
                     // prevent trashing the script engine

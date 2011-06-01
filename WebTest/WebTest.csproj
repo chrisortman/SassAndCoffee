@@ -98,6 +98,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\config.rb" />
+    <Content Include="Content\css\ie.css" />
+    <Content Include="Content\css\print.css" />
+    <Content Include="Content\css\screen.css" />
+    <Content Include="Content\images\grid.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_0_aaaaaa_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_flat_75_ffffff_40x100.png" />
     <Content Include="Content\themes\base\images\ui-bg_glass_55_fbf9ee_1x400.png" />
@@ -143,6 +148,15 @@
     <Content Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
+    <None Include="App_ReadMe\README.md" />
+    <None Include="Content\sass\ie.scss" />
+    <None Include="Content\sass\partials\_base.scss" />
+    <None Include="Content\sass\partials\_form.scss" />
+    <None Include="Content\sass\partials\_page.scss" />
+    <None Include="Content\sass\partials\_two_col.scss" />
+    <None Include="Content\sass\print.scss" />
+    <None Include="Content\sass\screen.scss" />
+    <None Include="Content\sass\test.scss" />
     <None Include="Content\Site.scss" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
@@ -170,7 +184,9 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
+    <Content Include="packages.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SassAndCoffee\SassAndCoffee.csproj">
@@ -195,7 +211,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>14437</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:1915/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
