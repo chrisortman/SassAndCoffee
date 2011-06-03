@@ -322,3 +322,7 @@ div#title {
 .tri-state {
     width: 6em;
 }
+
+$test-variable : #00BBDD;
+
+p.test { color: $test-variable }
