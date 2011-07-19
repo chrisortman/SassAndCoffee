@@ -1,0 +1,39 @@
+.compass {
+  margin: 1em auto;
+  position: relative;
+  width: 16em;
+  height: 16em;
+  font-size: 24px;
+  font-family: "Academy Engraved LET", "Papyrus"; }
+  .compass .n, .compass .s, .compass .e, .compass .w {
+    position: absolute;
+    width: 4em;
+    height: 4em;
+    text-align: center;
+    vertical-align: middle; }
+  .compass .w {
+    left: 0px; }
+  .compass .n.w, .compass .s.w {
+    left: 2em; }
+  .compass .n, .compass .s {
+    left: 6em; }
+  .compass .n.e, .compass .s.e {
+    left: 10em; }
+  .compass .e {
+    left: 12em; }
+  .compass .n {
+    top: 0px; }
+  .compass .n.w, .compass .n.e {
+    top: 2em; }
+  .compass .w, .compass .e {
+    top: 6em; }
+  .compass .s.w, .compass .s.e {
+    top: 10em; }
+  .compass .s {
+    top: 12em; }
+  .compass .n p, .compass .s p, .compass .e p, .compass .w p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em; }
+  .compass .n.w p, .compass .s.w p, .compass .n.e p, .compass .s.e p {
+    margin-top: 1em;
+    margin-bottom: 1em; }
