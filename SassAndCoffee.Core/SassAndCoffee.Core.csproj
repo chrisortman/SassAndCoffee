@@ -220,98 +220,54 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\link_icons.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\rtl.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\buttons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>buttons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\link_icons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>link_icons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\rtl_screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>rtl_screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\index.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\fancy_type.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\liquid.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\liquid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>liquid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\compass.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\pie.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\sprites.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\bp_layout.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>bp_layout1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\compass.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>compass1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\pie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>pie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sprites.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>sprites1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sticky_footer.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>sticky_footer1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\sticky_footer.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\utilities.html.haml" />
@@ -322,47 +278,27 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\gradients.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\index.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\fancy-fonts.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>fancy-fonts1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\gradients.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>gradients1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\main.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>main1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\_base.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_base1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\grid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>grid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\text.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>text1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\README.markdown" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_base.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_base1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_defaults.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_defaults1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\divisions.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\index.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\src\screen.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>screen1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\sub_divisions.html.haml" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\templates.html.haml" />
@@ -371,76 +307,40 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\features\extensions.feature" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\features\rails_integration.feature" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\reset\_utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_buttons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_buttons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_colors.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_colors1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_debug.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_debug1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_fancy-type.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_fancy-type1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_form.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_form1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_grid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_grid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_interaction.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_interaction1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_link-icons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_link-icons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_liquid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_liquid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_reset.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_reset1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_rtl.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_rtl1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_scaffolding.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_scaffolding1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_typography.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_typography1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\_blueprint.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_blueprint1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\basic\ie.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\basic\partials\_base.sass" />
@@ -460,328 +360,168 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\semantic\print.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\semantic\screen.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_appearance.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_appearance1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-clip.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_background-clip1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-origin.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_background-origin1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-size.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_background-size1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_border-radius.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_border-radius1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-shadow.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_box-shadow1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-sizing.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_box-sizing1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_box1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_columns.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_columns1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_font-face.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_font-face1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_gradient.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_gradient1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_images.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_images1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_inline-block.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_inline-block1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_opacity.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_opacity1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_pie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_pie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_shared.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_shared1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_text-shadow.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_text-shadow1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform-legacy.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_transform-legacy1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_transform1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transition.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_transition1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_grid-background.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_grid-background1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_sticky-footer.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_sticky-footer1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_stretching.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_stretching1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities-legacy.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_utilities-legacy1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_hover-link.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_hover-link1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_link-colors.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_link-colors1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_unstyled-link.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_unstyled-link1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_bullets.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_bullets1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_horizontal-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_horizontal-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-block-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_inline-block-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_inline-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_ellipsis.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_ellipsis1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_nowrap.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_nowrap1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_replacement.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_replacement1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_links.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_links1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_lists.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_lists1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_text.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_text1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_vertical_rhythm.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_vertical_rhythm1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\color\_contrast.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_contrast1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_clearfix.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_clearfix1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_float.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_float1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_hacks.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_hacks1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_min.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_min1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_reset.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_reset1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tabs.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_tabs1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tag-cloud.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_tag-cloud1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\links\_hover-link.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_hover-link1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\links\_link-colors.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_link-colors1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\links\_unstyled-link.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_unstyled-link1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\lists\_bullets.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_bullets1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\lists\_horizontal-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_horizontal-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\lists\_inline-block-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_inline-block-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\lists\_inline-list.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_inline-list1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\sprites\_base.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_base1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\sprites\_sprite-img.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_sprite-img1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\tables\_alternating-rows-and-columns.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_alternating-rows-and-columns1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\tables\_borders.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_borders1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\tables\_scaffolding.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_scaffolding1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\text\_ellipsis.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_ellipsis1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\text\_nowrap.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_nowrap1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\text\_replacement.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_replacement1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_color.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_color1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_general.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_general1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_links.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_links1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_lists.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_lists1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_sprites.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_sprites1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_tables.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_tables1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_text.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_text1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_css3.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_css31.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_layout.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_layout1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset-legacy.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_reset-legacy1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_reset1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_support.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_support1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_typography.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_typography1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_compass.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_compass1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_lemonade.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>_lemonade1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\ellipsis\ellipsis.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\extension\stylesheets\main.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\extension\templates\project\screen.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\pie\LICENSE" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\pie\pie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>pie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\project\ie.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\project\print.sass" />
@@ -794,136 +534,74 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\print.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\screen.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\buttons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>buttons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\colors.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>colors1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\debug.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>debug1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\fancy-type.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>fancy-type1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\form.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>form1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\grid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>grid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\ie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>ie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\interaction.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>interaction1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\link-icons.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>link-icons1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\liquid.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>liquid1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\print.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>print1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset-utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>reset-utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>reset1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\rtl.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>rtl1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\scaffolding.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>scaffolding1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\typography.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>typography1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\border_radius.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>border_radius1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box_shadow.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>box_shadow1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\columns.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>columns1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\fonts.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\gradients.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\grid_background.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>grid_background1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\images.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>images1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\image_size.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\layout.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\legacy_clearfix.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>legacy_clearfix1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\lists.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>lists1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\opacity.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>opacity1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\pie.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>pie1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\print.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\reset.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\sprites.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>sprites1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\stretching.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\text_shadow.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>text_shadow1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\transform.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>transform1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\utilities.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>utilities1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\vertical_rhythm.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>vertical_rhythm1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\image_urls\sass\screen.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\sass\ie.sass" />
@@ -978,12 +656,8 @@
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\parent_ref.sass" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\script.sass" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_import.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>scss_import1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_importee.scss">
-      <Generator>ScssGenerator</Generator>
-      <LastGenOutput>scss_importee1.css</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\subdir\nested_subdir\nested_subdir.sass" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\subdir\nested_subdir\_nested_partial.sass" />

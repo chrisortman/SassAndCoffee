@@ -43,11 +43,17 @@
 
                 return new SassModule() {
                     Engine = scope.Engine.Runtime.Globals.GetVariable("Sass"),
-                    SassOption = engine.Execute("{:syntax => :sass}"),
-                    ScssOption = engine.Execute("{:syntax => :scss}"),
+                    SassOption = engine.Execute("{:syntax => :sass, :load_paths => " + GetSassLoadPaths() + "}"),
+                    ScssOption = engine.Execute("{:syntax => :scss, :load_paths => " + GetSassLoadPaths() + "}"),
                     ExecuteRubyCode = code => engine.Execute(code, scope),
                 };
             });
+        }
+
+        private static string GetSassLoadPaths()
+        {
+            return
+                @"['R:\lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets','R:\lib\gems\compass-0.11.1\frameworks\compass\stylesheets']";
         }
 
         public string[] InputFileExtensions {
