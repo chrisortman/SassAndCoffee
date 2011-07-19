@@ -142,170 +142,6 @@
     <EmbeddedResource Include="lib\ruby\1.9.1\uri\mailto.rb" />
     <EmbeddedResource Include="lib\sass_in_one.rb" />
     <EmbeddedResource Include="lib\amd64\V8Bridge.dll.metagen" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\.infinity_test" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\.yardopts" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\BENCHMARKS.rdoc" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\chunky_png.gemspec" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\Gemfile" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\LICENSE" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\Rakefile" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\README.rdoc" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g01.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g02.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g04.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi2c16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p01.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p02.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p04.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi4a08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi4a16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi6a08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi6a16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g01.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g02.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g04.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn2c16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p01.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p02.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p04.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn4a08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn4a16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn6a08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn6a16.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n0g08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n2c08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n0g08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n2c08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n0g08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n2c08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n0g08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n2c08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n0g08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n0g08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n2c08.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n2c08_reference.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\pixelstream.rgb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\pixelstream.rgba" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\tasks\benchmarks.rake" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\tasks\github-gem.rake" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\index.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\elements.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\forms.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\grid.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\index.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\buttons.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\fancy_type.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\link_icons.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\plugins\rtl.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\buttons.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\link_icons.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\rtl_screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\index.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\fancy_type.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\liquid.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\liquid.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\compass.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\pie.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\sprites.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\bp_layout.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\compass.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\pie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sprites.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sticky_footer.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\utilities.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\sticky_footer.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\utilities.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\extensions\fancy-fonts\templates\project\bgrove.otf" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\extensions\fancy-fonts\templates\project\bgrove.ttf" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\extensions\fancy-fonts\templates\project\fancy-fonts.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\extensions\fancy-fonts\templates\project\Prociono.otf" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\gradients.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\index.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\fancy-fonts.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\gradients.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\main.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\_base.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\grid.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\text.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\README.markdown" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_base.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_defaults.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\divisions.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\index.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\src\screen.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\sub_divisions.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\templates.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\typography.html.haml" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\features\command_line.feature" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\features\extensions.feature" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\features\rails_integration.feature" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\reset\_utilities.scss">
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_buttons.scss">
@@ -337,8 +173,6 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_scaffolding.scss">
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_typography.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_utilities.scss">
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\_blueprint.scss">
     </EmbeddedResource>
@@ -433,8 +267,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_lists.scss">
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_text.scss">
-    </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_vertical_rhythm.scss">
     </EmbeddedResource>
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\color\_contrast.scss">
@@ -527,155 +359,6 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\project\print.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\project\screen.sass" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\templates\project\USAGE.markdown" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\LICENSE.markdown" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\Rakefile" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\README.markdown" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\ie.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\print.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\screen.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\buttons.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\colors.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\debug.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\fancy-type.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\form.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\grid.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\ie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\interaction.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\link-icons.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\liquid.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\print.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset-utilities.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\rtl.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\scaffolding.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\typography.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\utilities.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\border_radius.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box_shadow.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\columns.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\fonts.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\gradients.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\grid_background.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\images.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\image_size.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\layout.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\legacy_clearfix.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\lists.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\opacity.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\pie.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\print.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\reset.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\sprites.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\stretching.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\text_shadow.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\transform.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\utilities.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\vertical_rhythm.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\image_urls\sass\screen.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\sass\ie.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\sass\print.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\sass\screen.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\valid\sass\simple.sass" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\VERSION.yml" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\fssm.gemspec" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\Gemfile" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\LICENSE" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\Rakefile" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\README.markdown" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\root\file.yml" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\.yardopts" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\CONTRIBUTING" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\MIT-LICENSE" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\Rakefile" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\README.md" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\REVISION" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_templates\more1.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_templates\more_import.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_templates\_more_partial.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\alt.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\basic.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\bork1.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\bork2.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\bork3.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\bork4.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\compact.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\complex.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\compressed.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\expanded.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\if.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\import.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\importee.less" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\importee.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\import_charset.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\import_charset_1_8.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\import_charset_ibm866.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\line_numbers.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\mixins.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\mixin_bork.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\multiline.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_bork1.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_bork2.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_bork3.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_bork4.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_import.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\nested_mixin_bork.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\options.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\parent_ref.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\script.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_import.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_importee.scss">
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\subdir\nested_subdir\nested_subdir.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\subdir\nested_subdir\_nested_partial.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\subdir\subdir.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\units.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\warn.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\warn_imported.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\_imported_charset_ibm866.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\_imported_charset_utf8.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\_partial.sass" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\fssm.gemspec" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\LICENSE" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\Rakefile" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\README.markdown" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\root\file.yml" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\VERSION.yml" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\VERSION" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\VERSION_NAME" />
     <EmbeddedResource Include="lib\x86\V8Bridge.dll.metagen" />
     <EmbeddedResource Include="packages.config" />
   </ItemGroup>
@@ -698,10 +381,6 @@
     <EmbeddedResource Include="lib\x86\V8Bridge.pdb" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\.gitignore" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\benchmarks\decoding_benchmark.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\benchmarks\encoding_benchmark.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\benchmarks\filesize_benchmark.rb" />
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png.rb" />
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png\canvas.rb" />
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png\canvas\adam7_interlacing.rb" />
@@ -723,859 +402,86 @@
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png\point.rb" />
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png\rmagick.rb" />
     <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\lib\chunky_png\vector.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\adam7_interlacing_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\drawing_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\masking_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\operations_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\png_decoding_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\png_encoding_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\resampling_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\stream_exporting_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas\stream_importing_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\canvas_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\color_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\datastream_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\dimension_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\image_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\point_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\rmagick_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png\vector_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\chunky_png_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgai4a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgai4a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgan6a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgan6a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgbn4a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bggn4a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgwn6a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\background_chunks\bgyn6a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi4a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi4a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi6a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basi6a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn4a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn4a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn6a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\basic\basn6a16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\broken\x00n0g01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\broken\xcrn0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\broken\xlfn0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi1n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi1n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi2n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi2n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi4n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi4n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi9n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\chunk_ordering\oi9n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\compression_levels\z00n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\compression_levels\z03n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\compression_levels\z06n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\compression_levels\z09n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n0g08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f00n2c08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n0g08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f01n2c08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n0g08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f02n2c08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n0g08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f03n2c08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n0g08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\filtering\f04n2c08_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g03n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g03n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g03n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g04n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g04n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g04n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g05n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g05n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g05n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g07n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g07n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g07n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g10n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g10n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g10n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g25n0g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g25n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\gamma\g25n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\metadata\cm0n0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\metadata\cm7n0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\metadata\cm9n0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ccwn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ccwn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cdfn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cdhn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cdsn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cdun2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ch1n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ch2n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs3n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs3n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs5n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs5n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs8n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\cs8n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ct0n0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ct1n0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ctzn0g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\pp0n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\pp0n6a08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ps1n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ps1n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ps2n0g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\other\ps2n2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s01i3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s01n3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s02i3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s02n3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s03i3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s03n3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s04i3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s04n3p01.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s05i3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s05n3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s06i3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s06n3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s07i3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s07n3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s08i3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s08n3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s09i3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s09n3p02.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s32i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s32n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s33i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s33n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s34i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s34n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s35i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s35n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s36i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s36n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s37i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s37n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s38i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s38n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s39i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s39n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s40i3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\sizes\s40n3p04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbbn1g04.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbbn2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbbn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbgn2c16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbgn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbrn2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbwn1g16.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbwn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tbyn3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tp0n1g08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tp0n2c08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tp0n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite\transparency\tp1n3p08.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\png_suite_spec.rb" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\adam7.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_five_point.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_four_point.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_four_point_flipped.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_four_point_s.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_six_point.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_three_point.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\bezier_three_point_flipped.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\circles.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_base.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_mask.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_mask_updated.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_nn_xdown_ydown.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_nn_xdown_yup.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_nn_xup_yup.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\clock_updated.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\composited.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\cropped.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\damaged_chunk.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\damaged_signature.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\lines.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\operations.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\partial_circles.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\pixelstream_best_compression.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\pixelstream_fast_rgba.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\pixelstream_reference.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\polygon_filled_horizontal.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\polygon_filled_vertical.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\polygon_triangle_filled.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\polygon_unfilled.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\rect.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\replaced.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\text_chunk.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\resources\ztxt_chunk.png" />
-    <EmbeddedResource Include="lib\gems\chunky_png-1.1.1\spec\spec_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\test-small.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\test.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\parts\valid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_default\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\buttons\cross.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\buttons\key.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\buttons\tick.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\doc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\email.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\external.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\feed.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\im.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\pdf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\visited.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\link_icons\xls.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\test-small.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\test.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\images\valid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\buttons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\buttons1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>buttons.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\link_icons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\link_icons1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>link_icons.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\rtl_screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\rtl_screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>rtl_screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_plugins\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_scoped_form\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\test-small.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\test.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\parts\valid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\liquid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\liquid1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>liquid.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\blueprint_semantic\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\bootstrap.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\clean.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\headers.txt" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\blue_arrow.gif" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\border2.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem-a043c4f148.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\favorite.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\important.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\photos.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\readonly.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\symbolic-link.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\system.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\emblem\unreadable.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag-03c3b29b35.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag-21cfbfbfc8.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ad.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ae.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\af.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ag.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ai.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\al.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\am.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\an.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ao.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ar.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\as.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\at.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\au.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\aw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ax.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\az.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ba.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\be.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\br.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\by.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\bz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ca.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\catalonia.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ch.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ci.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ck.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\co.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cx.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\cz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\de.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\dj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\dk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\dm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\do.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\dz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ec.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ee.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\eg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\eh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\england.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\er.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\es.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\et.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\europeanunion.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fam.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\fr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ga.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ge.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\gy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\hk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\hm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\hn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\hr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ht.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\hu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\id-2.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ie.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\il.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\in.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\io.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\iq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ir.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\is.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\it.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\jm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\jo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\jp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ke.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ki.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\km.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ky.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\kz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\la.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\li.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ls.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\lv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ly.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ma.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\md.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\me.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ml.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ms.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mx.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\my.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\mz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\na.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ne.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ng.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ni.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\no.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\np.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\nz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\om.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pe.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ph.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ps.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\pw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\py.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\qa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\re.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ro.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\rs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ru.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\rw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\scotland.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\se.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\si.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\so.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\st.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\sz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\td.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\th.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\to.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\tz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ua.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ug.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\um.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\us.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\uy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\uz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\va.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\vc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ve.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\vg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\vi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\vn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\vu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\wales.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\wf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ws.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\ye.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\yt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\za.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\zm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\flag\zw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\icon-chrome.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\icon-firefox.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\icon-ie.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\icon-opera.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\images\icon-safari.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\bp_layout.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\bp_layout1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>bp_layout.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\compass.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\compass1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>compass.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\images\blue_arrow.gif" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\pie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\pie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>pie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sprites.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sprites1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>sprites.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sticky_footer.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\sticky_footer1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>sticky_footer.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\compass\src\utilities1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>utilities.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\bootstrap.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\clean.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\extensions\fancy-fonts\templates\project\manifest.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\images\button_bg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\images\example.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\fancy-fonts.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\fancy-fonts1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>fancy-fonts.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\gradients.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\gradients1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>gradients.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\main.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\main1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>main.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\_base.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\css3\src\_base1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>_base.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\downloader.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\bootstrap.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\clean.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\grid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\grid1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>grid.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\text.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\ninesixty\src\text1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>text.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\bootstrap.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\clean.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_base.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_base1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>_base.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_defaults.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\susy\src\_defaults1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>_defaults.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\bootstrap.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\clean.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\src\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\src\screen1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>screen.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\examples\yui\test.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\features\step_definitions\command_line_steps.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\features\step_definitions\extension_steps.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\reset\_utilities.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\reset\_utilities1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_utilities.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_buttons.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_buttons1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_buttons.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_colors.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_colors1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_colors.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_debug.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_debug1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_debug.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_fancy-type.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_fancy-type1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_fancy-type.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_form.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_form1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_form.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_grid.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_grid1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_grid.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_ie.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_ie1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_ie.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_interaction.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_interaction1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_interaction.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_link-icons.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_link-icons1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_link-icons.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_liquid.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_liquid1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_liquid.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_print.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_print1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_print.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_reset.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_reset1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_reset.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_rtl.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_rtl1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_rtl.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_scaffolding.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_scaffolding1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_scaffolding.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_typography.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_typography1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_typography.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\blueprint\_utilities1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>_utilities.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\_blueprint.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets\_blueprint1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1600,283 +506,231 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\project\manifest.rb" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\semantic\grid.png" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\blueprint\templates\semantic\manifest.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_appearance.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_appearance1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_appearance.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-clip.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-clip1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_background-clip.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-origin.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-origin1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_background-origin.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-size.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_background-size1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_background-size.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_border-radius.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_border-radius1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_border-radius.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-shadow.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-shadow1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_box-shadow.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-sizing.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box-sizing1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_box-sizing.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_box1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_box.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_columns.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_columns1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_columns.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_font-face.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_font-face1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_font-face.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_gradient.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_gradient1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_gradient.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_images.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_images1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_images.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_inline-block.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_inline-block1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_inline-block.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_opacity.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_opacity1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_opacity.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_pie.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_pie1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_pie.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_shared.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_shared1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_shared.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_text-shadow.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_text-shadow1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_text-shadow.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform-legacy.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform-legacy1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_transform-legacy.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transform1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_transform.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transition.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\css3\_transition1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_transition.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_grid-background.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_grid-background1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_grid-background.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_sticky-footer.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_sticky-footer1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_sticky-footer.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_stretching.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\layout\_stretching1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_stretching.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities-legacy.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities-legacy1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_utilities-legacy.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\reset\_utilities1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_utilities.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_hover-link.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_hover-link1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_hover-link.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_link-colors.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_link-colors1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_link-colors.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_unstyled-link.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\links\_unstyled-link1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_unstyled-link.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_bullets.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_bullets1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_bullets.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_horizontal-list.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_horizontal-list1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_horizontal-list.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-block-list.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-block-list1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_inline-block-list.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-list.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\lists\_inline-list1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_inline-list.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_ellipsis.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_ellipsis1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_ellipsis.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_nowrap.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_nowrap1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_nowrap.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_replacement.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\text\_replacement1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_replacement.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_links.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_links1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_links.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_lists.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_lists1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_lists.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_text.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_text1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>_text.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_vertical_rhythm.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\typography\_vertical_rhythm1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_vertical_rhythm.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\color\_contrast.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\color\_contrast1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_contrast.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_clearfix.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_clearfix1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_clearfix.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_float.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_float1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_float.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_hacks.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_hacks1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_hacks.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_min.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_min1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_min.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_reset.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_reset1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_reset.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tabs.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tabs1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_tabs.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tag-cloud.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\general\_tag-cloud1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -1972,103 +826,86 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>_replacement.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_color.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_color1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_color.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_general.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_general1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_general.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_links.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_links1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_links.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_lists.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_lists1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_lists.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_print.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_print1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_print.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_sprites.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_sprites1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_sprites.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_tables.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_tables1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_tables.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_text.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\utilities\_text1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_text.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_css3.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_css31.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_css3.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_layout.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_layout1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_layout.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset-legacy.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset-legacy1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_reset-legacy.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_reset1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_reset.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_support.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_support1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_support.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_typography.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_typography1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_typography.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_utilities.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\compass\_utilities1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_utilities.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_compass.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_compass1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>_compass.scss</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_lemonade.css" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\frameworks\compass\stylesheets\_lemonade1.css">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -2190,522 +1027,6 @@
     <EmbeddedResource Include="lib\gems\compass-0.11.1\lib\compass\util.rb" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\lib\compass\validator.rb" />
     <EmbeddedResource Include="lib\gems\compass-0.11.1\lib\compass\version.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\command_line_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\command_line_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\compass_png_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\compass_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\configuration_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\buttons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\colors.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\debug.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\fancy-type.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\form.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\grid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\interaction.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\link-icons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\liquid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\reset-utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\reset.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\rtl.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\scaffolding.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\typography.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\css\single-imports\utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\doc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\email.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\external.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\feed.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\im.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\pdf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\visited.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\images\link_icons\xls.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\buttons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\buttons1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>buttons.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\colors.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\colors1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>colors.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\debug.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\debug1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>debug.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\fancy-type.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\fancy-type1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>fancy-type.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\form.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\form1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>form.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\grid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\grid1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>grid.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\ie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>ie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\interaction.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\interaction1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>interaction.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\link-icons.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\link-icons1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>link-icons.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\liquid.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\liquid1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>liquid.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\print1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>print.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset-utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset-utilities1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>reset-utilities.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\reset1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>reset.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\rtl.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\rtl1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>rtl.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\scaffolding.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\scaffolding1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>scaffolding.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\typography.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\typography1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>typography.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\blueprint\sass\single-imports\utilities1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>utilities.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\100x150.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\border_radius.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\box.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\box_shadow.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\columns.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\fonts.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\gradients.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\grid_background.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\images.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\image_size.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\layout.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\legacy_clearfix.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\lists.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\opacity.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\pie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\reset.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\sprites.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\stretching.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\text_shadow.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\transform.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\css\vertical_rhythm.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\100x150.gif" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\100x150.jpeg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\100x150.jpg" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\100x150.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\4x6.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag-03c3b29b35.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ad.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ae.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\af.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ag.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ai.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\al.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\am.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\an.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ao.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ar.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\as.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\at.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\au.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\aw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ax.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\az.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ba.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\be.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\br.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\by.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\bz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ca.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\catalonia.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ch.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ci.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ck.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\co.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cx.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\cz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\de.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\dj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\dk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\dm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\do.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\dz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ec.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ee.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\eg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\eh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\england.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\er.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\es.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\et.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\europeanunion.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fam.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\fr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ga.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ge.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\gy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\hk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\hm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\hn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\hr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ht.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\hu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\id-2.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ie.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\il.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\in.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\io.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\iq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ir.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\is.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\it.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\jm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\jo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\jp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ke.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ki.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\km.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ky.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\kz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\la.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\li.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ls.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\lv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ly.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ma.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\md.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\me.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ml.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mo.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mp.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mq.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ms.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mx.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\my.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\mz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\na.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ne.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ng.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ni.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\no.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\np.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\nz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\om.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pe.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ph.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ps.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\pw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\py.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\qa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\re.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ro.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\rs.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ru.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\rw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sa.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sb.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\scotland.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sd.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\se.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sh.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\si.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\so.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\st.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\sz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\td.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\th.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tj.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tk.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tl.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\to.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tr.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tv.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\tz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ua.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ug.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\um.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\us.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\uy.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\uz.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\va.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\vc.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ve.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\vg.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\vi.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\vn.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\vu.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\wales.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\wf.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ws.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\ye.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\yt.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\za.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\zm.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\images\flag\zw.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\border_radius.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\border_radius1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>border_radius.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box_shadow.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\box_shadow1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>box_shadow.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\columns.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\columns1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>columns.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\grid_background.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\grid_background1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>grid_background.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\images.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\images1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>images.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\legacy_clearfix.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\legacy_clearfix1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>legacy_clearfix.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\lists.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\lists1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>lists.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\opacity.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\opacity1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>opacity.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\pie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\pie1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>pie.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\sprites.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\sprites1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>sprites.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\text_shadow.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\text_shadow1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>text_shadow.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\transform.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\transform1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>transform.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\utilities.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\utilities1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>utilities.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\vertical_rhythm.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\compass\sass\vertical_rhythm1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>vertical_rhythm.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\image_urls\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\image_urls\css\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\image_urls\images\grid.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\assets\images\testing.png" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\css\ie.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\css\print.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\relative\css\screen.css" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\fixtures\stylesheets\valid\config.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\io_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\rails_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\rails_integration_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\sass_extensions_test.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\test_case_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\test_helper.rb" />
-    <EmbeddedResource Include="lib\gems\compass-0.11.1\test\test_rails_helper.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\.gitignore" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\example.rb" />
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm.rb" />
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm\backends\fsevents.rb" />
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm\backends\inotify.rb" />
@@ -2720,20 +1041,6 @@
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm\support.rb" />
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm\tree.rb" />
     <EmbeddedResource Include="lib\gems\fssm-0.2.7\lib\fssm\version.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof-cache.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof-fssm-pathname.html" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof-pathname-rubinius.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof-pathname.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof-plain-pathname.html" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\profile\prof.html" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\count_down_latch.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\monitor_spec.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\path_spec.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\root\duck\quack.txt" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\root\file.css" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\root\file.rb" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\root\moo\cow.txt" />
-    <EmbeddedResource Include="lib\gems\fssm-0.2.7\spec\spec_helper.rb" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\extra\update_watch.rb" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\init.rb" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\lib\sass.rb" />
@@ -2829,92 +1136,6 @@
     <EmbeddedResource Include="lib\gems\sass-3.1.1\lib\sass\util\subset_map.rb" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\lib\sass\version.rb" />
     <EmbeddedResource Include="lib\gems\sass-3.1.1\rails\init.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\cache_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\callbacks_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\conversion_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\css2sass_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\data\hsl-rgb.txt" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\engine_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\extend_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\functions_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\importer_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\less_conversion_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\mock_importer.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_results\more1.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_results\more1_with_line_comments.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\more_results\more_import.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\plugin_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\alt.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\basic.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\compact.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\complex.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\compressed.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\expanded.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\if.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\import.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\import_charset.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\import_charset_1_8.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\import_charset_ibm866.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\line_numbers.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\mixins.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\multiline.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\nested.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\options.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\parent_ref.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\script.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\scss_import.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\scss_importee.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\subdir\nested_subdir\nested_subdir.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\subdir\subdir.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\units.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\warn.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\results\warn_imported.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\script_conversion_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\script_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\scss\css_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\scss\rx_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\scss\scss_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\scss\test_helper.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_import.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_import1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>scss_import.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_importee.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\templates\scss_importee1.css">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>scss_importee.scss</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\test_helper.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\util\subset_map_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\sass\util_test.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\test\test_helper.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\example.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\backends\fsevents.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\backends\inotify.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\backends\polling.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\backends\rubycocoa\fsevents.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\monitor.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\path.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\pathname.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\state\directory.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\state\file.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\support.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\lib\fssm\tree.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\profile\prof-cache.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\profile\prof-fssm-pathname.html" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\profile\prof-pathname.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\profile\prof-plain-pathname.html" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\profile\prof.html" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\path_spec.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\root\duck\quack.txt" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\root\file.css" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\root\file.rb" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\root\moo\cow.txt" />
-    <EmbeddedResource Include="lib\gems\sass-3.1.1\vendor\fssm\spec\spec_helper.rb" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
