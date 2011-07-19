@@ -35,9 +35,25 @@
 
                 // NB: 'R:\' is a garbage path that the PAL override below will 
                 // detect and attempt to find via an embedded Resource file
-                engine.SetSearchPaths(new List<string>() {@"R:\lib\ironruby", @"R:\lib\ruby\1.9.1"});
+                                                               engine.SetSearchPaths(new List<string>()
+                                                               {
+                                                                   @"R:\lib\gems\compass-0.11.1\lib",
+                                                                   @"R:\lib\gems\chunky_png-1.1.1\lib",
+                                                                   @"R:\lib\gems\fssm-0.2.7\lib",
+                                                                   @"R:\lib\gems\sass-3.1.1\lib",
+                                                                   @"R:\lib\ironruby",
+                                                                   @"R:\lib\ruby\1.9.1"
+                                                               });
     
-                var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.Core.lib.sass_in_one.rb"), SourceCodeKind.File);
+               // var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.Core.lib.sass_in_one.rb"), SourceCodeKind.File);
+                                                               var source =
+                                                                   engine.CreateScriptSourceFromString(
+                                                                       @"
+require 'compass'
+require 'compass/exec'
+",
+                                                                       SourceCodeKind.Statements);
+
                 var scope = engine.CreateScope();
                 source.Execute(scope);
 
@@ -143,6 +159,10 @@
         {
             var ret = path
                 .Replace("1.9.1", "_1._9._1")
+                .Replace("-1.1.1","_1._1._1")
+                .Replace("-0.11.1","_0._11._1")
+                .Replace("-0.2.7","_0._2._7")
+                .Replace("-3.1.1","_3._1._1")
                 .Replace('\\', '.')
                 .Replace('/', '.')
                 .Replace("R:", "SassAndCoffee.Core");
