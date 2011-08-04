@@ -1,0 +1,5 @@
+c:\Code\SassAndCoffee\SassAndCoffee.Gems\bin\Debug\SassAndCoffee.Gems.dll
+c:\Code\SassAndCoffee\SassAndCoffee.Gems\bin\Debug\SassAndCoffee.Gems.pdb
+c:\Code\SassAndCoffee\SassAndCoffee.Gems\obj\Debug\ResolveAssemblyReference.cache
+c:\Code\SassAndCoffee\SassAndCoffee.Gems\obj\Debug\SassAndCoffee.Gems.dll
+c:\Code\SassAndCoffee\SassAndCoffee.Gems\obj\Debug\SassAndCoffee.Gems.pdb
