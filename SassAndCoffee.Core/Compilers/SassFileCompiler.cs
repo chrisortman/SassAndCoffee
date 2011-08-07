@@ -1,4 +1,8 @@
-﻿namespace SassAndCoffee.Core.Compilers
+﻿using System.Collections;
+using System.Configuration;
+using System.Text;
+
+namespace SassAndCoffee.Core.Compilers
 {
     using System;
     using System.Collections.Generic;
@@ -37,12 +41,13 @@
                 // detect and attempt to find via an embedded Resource file
                                                                engine.SetSearchPaths(new List<string>()
                                                                {
-                                                                   @"R:\lib\gems\compass-0.11.1\lib",
-                                                                   @"R:\lib\gems\chunky_png-1.1.1\lib",
-                                                                   @"R:\lib\gems\fssm-0.2.7\lib",
-                                                                   @"R:\lib\gems\sass-3.1.1\lib",
-                                                                   @"R:\lib\ironruby",
-                                                                   @"R:\lib\ruby\1.9.1"
+                                                                   @"R:\ironruby",
+                                                                   @"R:\ruby\1.9.1",
+                                                                   @"R:\gems\compass-0.11.1\lib",
+                                                                   @"R:\gems\chunky_png-1.1.1\lib",
+                                                                   @"R:\gems\fssm-0.2.7\lib",
+                                                                   @"R:\gems\sass-3.1.1\lib",
+                                                                   @"R:\gems\sass-3.1.1",
                                                                });
     
                // var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.Core.lib.sass_in_one.rb"), SourceCodeKind.File);
@@ -50,6 +55,9 @@
                                                                    engine.CreateScriptSourceFromString(
                                                                        @"
 require 'compass'
+
+
+
 require 'compass/exec'
 ",
                                                                        SourceCodeKind.Statements);
@@ -68,8 +76,17 @@ require 'compass/exec'
 
         private static string GetSassLoadPaths()
         {
-            return
-                @"['R:\lib\gems\compass-0.11.1\frameworks\blueprint\stylesheets','R:\lib\gems\compass-0.11.1\frameworks\compass\stylesheets']";
+            var loadPaths = ConfigurationManager.AppSettings["SassAndCoffee.LoadPaths"].Split(',',';');
+            var sb = new StringBuilder();
+            sb.Append("[");
+            foreach(var lp in loadPaths)
+            {
+                sb.AppendFormat("'{0}'", lp);
+                sb.Append(",");
+            }
+            sb.Length--;
+            sb.Append("]");
+            return sb.ToString();
         }
 
         public string[] InputFileExtensions {
@@ -128,9 +145,12 @@ require 'compass/exec'
 
     public class ResourceAwarePAL : PlatformAdaptationLayer
     {
+       
+        private static readonly Assembly GemAssembly = Assembly.Load("SassAndCoffee.Gems");
+
         public override Stream OpenInputFileStream(string path)
         {
-            var ret = Assembly.GetExecutingAssembly().GetManifestResourceStream(pathToResourceName(path));
+            var ret = GemAssembly.GetManifestResourceStream(pathToResourceName(path));
             if (ret != null) {
                 return ret;
             }
@@ -142,9 +162,25 @@ require 'compass/exec'
             return base.OpenInputFileStream(path);
         }
 
+        //This get shit when calling Sass::Version.version when it tries to read the VERSION file
+        public override Stream OpenInputFileStream(string path, FileMode mode, FileAccess access, FileShare share) {
+
+             var ret = GemAssembly.GetManifestResourceStream(pathToResourceName(path));
+            if (ret != null) {
+                return ret;
+            }
+
+            if (SassFileCompiler.RootAppPath == null || !path.ToLowerInvariant().StartsWith(SassFileCompiler.RootAppPath)) {
+                return null;
+            }
+
+            return base.OpenInputFileStream(path, mode, access, share);
+        }
+
+       
         public override bool FileExists(string path)
         {
-            if (Assembly.GetExecutingAssembly().GetManifestResourceInfo(pathToResourceName(path)) != null) {
+            if (GemAssembly.GetManifestResourceInfo(pathToResourceName(path)) != null) {
                 return true;
             }
 
@@ -165,8 +201,106 @@ require 'compass/exec'
                 .Replace("-3.1.1","_3._1._1")
                 .Replace('\\', '.')
                 .Replace('/', '.')
-                .Replace("R:", "SassAndCoffee.Core");
+                .Replace("R:", "SassAndCoffee.Gems");
             return ret;
+        }
+
+        public override bool DirectoryExists(string path)
+        {
+            return base.DirectoryExists(path);
+        }
+
+        public override Stream OpenInputFileStream(string path, FileMode mode, FileAccess access, FileShare share, int bufferSize)
+        {
+            return base.OpenInputFileStream(path, mode, access, share, bufferSize);
+        }
+
+        public override Stream OpenOutputFileStream(string path)
+        {
+            return base.OpenOutputFileStream(path);
+        }
+
+        public override void DeleteFile(string path, bool deleteReadOnly)
+        {
+            base.DeleteFile(path, deleteReadOnly);
+        }
+
+        public override string[] GetFileSystemEntries(string path, string searchPattern, bool includeFiles, bool includeDirectories)
+        {
+            if(path != null 
+                && path.Equals(@"R:/gems/compass-0.11.1/frameworks",StringComparison.InvariantCultureIgnoreCase))
+            {
+                return base.GetFileSystemEntries(@"E:\Code\SassAndCoffee\WebTest\App_Compass", searchPattern,
+                                                 includeFiles, includeDirectories);
+            }
+           
+            return base.GetFileSystemEntries(path, searchPattern, includeFiles, includeDirectories);
+        }
+
+        public override string GetFullPath(string path)
+        {
+            return base.GetFullPath(path);
+        }
+
+        public override string CombinePaths(string path1, string path2)
+        {
+            return base.CombinePaths(path1, path2);
+        }
+
+        public override string GetFileName(string path)
+        {
+            return base.GetFileName(path);
+        }
+
+        public override string GetDirectoryName(string path)
+        {
+            return base.GetDirectoryName(path);
+        }
+
+        public override string GetExtension(string path)
+        {
+            return base.GetExtension(path);
+        }
+
+        public override string GetFileNameWithoutExtension(string path)
+        {
+            return base.GetFileNameWithoutExtension(path);
+        }
+
+        public override bool IsAbsolutePath(string path)
+        {
+            return base.IsAbsolutePath(path);
+        }
+
+        public override void CreateDirectory(string path)
+        {
+            base.CreateDirectory(path);
+        }
+
+        public override void DeleteDirectory(string path, bool recursive)
+        {
+            base.DeleteDirectory(path, recursive);
+        }
+
+        public override void MoveFileSystemEntry(string sourcePath, string destinationPath)
+        {
+            base.MoveFileSystemEntry(sourcePath, destinationPath);
+
+        }
+
+        public override string GetEnvironmentVariable(string key)
+        {
+            return base.GetEnvironmentVariable(key);
+        }
+
+        public override void SetEnvironmentVariable(string key, string value)
+        {
+            base.SetEnvironmentVariable(key, value);
+        }
+
+        public override IDictionary GetEnvironmentVariables()
+        {
+            return base.GetEnvironmentVariables();
         }
     }
 }

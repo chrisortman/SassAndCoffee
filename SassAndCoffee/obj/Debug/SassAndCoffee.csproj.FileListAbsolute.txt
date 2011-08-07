@@ -1,0 +1,13 @@
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\SassAndCoffee.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\SassAndCoffee.pdb
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\IronRuby.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\IronRuby.Libraries.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\IronRuby.Libraries.Yaml.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\Jurassic.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\Microsoft.Dynamic.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\Microsoft.Scripting.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Code\SassAndCoffee\SassAndCoffee\bin\Debug\Jurassic.pdb
+E:\Code\SassAndCoffee\SassAndCoffee\obj\Debug\ResolveAssemblyReference.cache
+E:\Code\SassAndCoffee\SassAndCoffee\obj\Debug\SassAndCoffee.dll
+E:\Code\SassAndCoffee\SassAndCoffee\obj\Debug\SassAndCoffee.pdb

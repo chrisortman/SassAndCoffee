@@ -13,14 +13,25 @@
     <OutputPath>bin\$(Configuration)\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <EmbeddedResource Include="**\*.*" Exclude="bin;build.proj" />
+    <IgnoreList Include="bin\**\*.*" />
+    <IgnoreList Include="obj\**\*.*" />
+    <IgnoreList Include="build.proj" />
+    <EmbeddedResource Include="**\*" Exclude="@(IgnoreList)" />
   </ItemGroup>
  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
-  </Target>
+  </Target>  -->
+  
   <Target Name="AfterBuild">
+    <ItemGroup>
+      <BuildOutputs Include="$(OutputPath)**\*.*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(BuildOutputs)" DestinationFolder="$(MSBuildProjectDirectory)\..\ext" />
   </Target>
-  -->
+
+  <Target Name="ListResources">
+    <Message Text="@(EmbeddedResource)" />
+  </Target>
 </Project>
