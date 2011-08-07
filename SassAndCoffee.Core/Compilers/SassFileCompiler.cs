@@ -67,8 +67,8 @@ require 'compass/exec'
 
                 return new SassModule() {
                     Engine = scope.Engine.Runtime.Globals.GetVariable("Sass"),
-                    SassOption = engine.Execute("{:syntax => :sass, :load_paths => " + GetSassLoadPaths() + "}"),
-                    ScssOption = engine.Execute("{:syntax => :scss, :load_paths => " + GetSassLoadPaths() + "}"),
+                    SassOption = engine.Execute("{:syntax => :sass, :load_paths => " + GetSassLoadPaths() + ", :full_exception => true,:debug_info => true}"),
+                    ScssOption = engine.Execute("{:syntax => :scss, :load_paths => " + GetSassLoadPaths() + ", :full_exception => true,:debug_info => true}"),
                     ExecuteRubyCode = code => engine.Execute(code, scope),
                 };
             });
@@ -117,10 +117,11 @@ require 'compass/exec'
                 dynamic opt = (inputFileContent.ToLowerInvariant().EndsWith("scss") ? sassModule.Value.ScssOption : sassModule.Value.SassOption);
 
                 if (!inputFileContent.Contains('\'')) {
-                    sassModule.Value.ExecuteRubyCode(String.Format("Dir.chdir '{0}'", Path.GetDirectoryName(inputFileContent)));
+                    sassModule.Value.ExecuteRubyCode(String.Format("Dir.chdir '{0}'", Path.GetDirectoryName(Path.GetDirectoryName(inputFileContent))));
                 }
-    
-                return (string) sassModule.Value.Engine.compile(File.ReadAllText(inputFileContent), opt);
+
+                string fileText = File.ReadAllText(inputFileContent);
+                return (string) sassModule.Value.Engine.compile(fileText, opt);
             }
         }
 
