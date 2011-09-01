@@ -40,13 +40,13 @@ module Sass
 
       def import
         paths = @options[:load_paths]
-
         if @options[:importer]
           f = @options[:importer].find_relative(
             @imported_filename, @options[:filename], @options.dup)
           return f if f
         end
 
+#repl(binding)
         paths.each do |p|
           if f = p.find(@imported_filename, @options.dup)
             return f

@@ -32,7 +32,12 @@ namespace SassAndCoffee.Core.Compilers
         static SassFileCompiler()
         {
             _sassModule = new TrashStack<SassModule>(() => {
-                var srs = new ScriptRuntimeSetup() {HostType = typeof (ResourceAwareScriptHost)};
+                var srs = new ScriptRuntimeSetup()
+                              {
+                                 // HostType = typeof (ResourceAwareScriptHost),
+                                DebugMode = true,
+                                
+                              };
                 srs.AddRubySetup();
                 var runtime = Ruby.CreateRuntime(srs);
                 var engine = runtime.GetRubyEngine();
@@ -41,13 +46,13 @@ namespace SassAndCoffee.Core.Compilers
                 // detect and attempt to find via an embedded Resource file
                                                                engine.SetSearchPaths(new List<string>()
                                                                {
-                                                                   @"R:\ironruby",
-                                                                   @"R:\ruby\1.9.1",
-                                                                   @"R:\gems\compass-0.11.1\lib",
-                                                                   @"R:\gems\chunky_png-1.1.1\lib",
-                                                                   @"R:\gems\fssm-0.2.7\lib",
-                                                                   @"R:\gems\sass-3.1.1\lib",
-                                                                   @"R:\gems\sass-3.1.1",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\ironruby",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\ruby\1.9.1",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\compass-0.11.1\lib",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\chunky_png-1.1.1\lib",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\fssm-0.2.7\lib",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\sass-3.1.1\lib",
+                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\sass-3.1.1",
                                                                });
     
                // var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.Core.lib.sass_in_one.rb"), SourceCodeKind.File);
@@ -67,8 +72,8 @@ require 'compass/exec'
 
                 return new SassModule() {
                     Engine = scope.Engine.Runtime.Globals.GetVariable("Sass"),
-                    SassOption = engine.Execute("{:syntax => :sass, :load_paths => " + GetSassLoadPaths() + ", :full_exception => true,:debug_info => true}"),
-                    ScssOption = engine.Execute("{:syntax => :scss, :load_paths => " + GetSassLoadPaths() + ", :full_exception => true,:debug_info => true}"),
+                    SassOption = engine.Execute("{:syntax => :sass, :load_paths => " + GetSassLoadPaths() + " }"),
+                    ScssOption = engine.Execute("{:syntax => :scss, :load_paths => " + GetSassLoadPaths() + " }"),
                     ExecuteRubyCode = code => engine.Execute(code, scope),
                 };
             });
@@ -81,7 +86,7 @@ require 'compass/exec'
             sb.Append("[");
             foreach(var lp in loadPaths)
             {
-                sb.AppendFormat("'{0}'", lp);
+                sb.AppendFormat("'{0}'", lp.Replace('\\','/'));
                 sb.Append(",");
             }
             sb.Length--;

@@ -1,4 +1,29 @@
+$nav-background-color: #e2e2e2;
+$nav-font-color: #003399;
+$nav-hover-font-color:#0033FF;
+$nav-selected-font-color:#003399;
+
 // This import applies a global reset to any page that imports this stylesheet.
 @import "blueprint/reset";
 
+// To configure blueprint, edit the partials/base.sass file.
+@import "partials/base";
 
+// Import all the default blueprint modules so that we can access their mixins.
+@import "blueprint";
+@import "blueprint/buttons";
+
+// Combine the partials into a single screen stylesheet.
+@import "partials/page";
+@import "partials/form";
+@import "partials/two_col";
+
+@import "compass/css3/border-radius";
+@import "compass/utilities/lists/horizontal-list";
+
+@mixin horizontal-dl {
+    float:left; width:100%; 
+    dt { padding-right:0.5em; }
+    dt, dd { float:left; width: 50px; margin:0; padding:0; }
+  
+}
