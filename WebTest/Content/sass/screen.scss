@@ -18,8 +18,6 @@ $nav-selected-font-color:#003399;
 @import "partials/form";
 @import "partials/two_col";
 
-@import "compass/css3/border-radius";
-@import "compass/utilities/lists/horizontal-list";
 
 @mixin horizontal-dl {
     float:left; width:100%; 

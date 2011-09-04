@@ -1,32 +1,5 @@
 require 'strscan'
 require 'set'
-def repl(scope = TOPLEVEL_BINDING)
-  Repl.start(scope)
-end
-
-module Repl
-  def self.start(scope = TOPLEVEL_BINDING)
-    quitstr = ['quit', 'exit', '']
-    while true
-      stack = eval("caller[3..-1]", scope)
-      print "\n#{stack.first}\n" if stack and not stack.empty?
-      print 'rb> '
-      input = gets.strip rescue 'quit'
-      break if quitstr.include?(input)
-      puts "=> #{
-        begin
-          eval(input, scope).inspect
-        rescue LoadError => le
-          puts le.inspect
-        rescue SyntaxError => se
-          puts se.inspect
-        rescue => e
-          puts e.inspect
-        end
-      }"
-    end
-  end
-end
 
 module Sass
   module SCSS
@@ -864,7 +837,6 @@ MESSAGE
       end
 
       def expected(name)
-        repl(binding)
         throw(:_sass_parser_error, true) if @throw_error
         self.class.expected(@scanner, @expected || name, @line)
       end

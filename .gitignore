@@ -9,3 +9,4 @@ WebTest/App_Data/_FileCache
 WebTest/App_Data/.sassandcoffeecache
 WebTest/Content/.sass-cache
 *.swp
+.sass-cache

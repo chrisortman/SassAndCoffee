@@ -44,6 +44,7 @@ namespace SassAndCoffee.Core.Compilers
 
                 // NB: 'R:\' is a garbage path that the PAL override below will 
                 // detect and attempt to find via an embedded Resource file
+                                                              // detect and attempt to find via an embedded Resource file
                                                                engine.SetSearchPaths(new List<string>()
                                                                {
                                                                    @"e:\code\sassandcoffee\sassandcoffee.gems\ironruby",
@@ -52,8 +53,18 @@ namespace SassAndCoffee.Core.Compilers
                                                                    @"e:\code\sassandcoffee\sassandcoffee.gems\gems\chunky_png-1.1.1\lib",
                                                                    @"e:\code\sassandcoffee\sassandcoffee.gems\gems\fssm-0.2.7\lib",
                                                                    @"e:\code\sassandcoffee\sassandcoffee.gems\gems\sass-3.1.1\lib",
-                                                                   @"e:\code\sassandcoffee\sassandcoffee.gems\gems\sass-3.1.1",
                                                                });
+    
+                   //engine.SetSearchPaths(new List<string>()
+                   //                                            {
+                   //                                                @"R:\ironruby",
+                   //                                                @"R:\ruby\1.9.1",
+                   //                                                @"R:\gems\compass-0.11.1\lib",
+                   //                                                @"R:\gems\chunky_png-1.1.1\lib",
+                   //                                                @"R:\gems\fssm-0.2.7\lib",
+                   //                                                @"R:\gems\sass-3.1.1\lib",
+                   //                                                @"R:\gems\sass-3.1.1",
+                   //                                            });
     
                // var source = engine.CreateScriptSourceFromString(Utility.ResourceAsString("SassAndCoffee.Core.lib.sass_in_one.rb"), SourceCodeKind.File);
                                                                var source =

@@ -61,6 +61,7 @@ module Sass
         end
         raise SyntaxError.new(message)
       rescue SyntaxError => e
+        puts e.message
         raise SyntaxError.new(e.message, :line => self.line, :filename => @filename)
       end
     end

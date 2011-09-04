@@ -33,12 +33,13 @@ end
 
 $load_paths = ['e:\\code\\sassandcoffee\\webtest\\app_compass\\blueprint\\stylesheets','e:\\code\\sassandcoffee\\webtest\\app_compass\\compass\\stylesheets']
 
-$load_paths2 = ['e:/code/sassandcoffee/webtest/app_compass/blueprint/stylesheets','e:/code/sassandcoffee/webtest/app_compass/compass/stylesheets']
+$load_paths2 = ['e:/code/sassandcoffee/webtest/app_compass/blueprint/stylesheets',
+				'e:/code/sassandcoffee/webtest/app_compass/compass/stylesheets',
+				'e:/code/sassandcoffee/webtest/content/sass']
 $sass_option = {:syntax => :sass, :load_paths => $load_paths2 }
 $scss_option = {:syntax => :scss, :load_paths => $load_paths2 }
 
 file_text = System::IO::File.ReadAllText("e:\\code\\sassandcoffee\\webtest\\content\\sass\\screen.scss")
 
-System::Diagnostics::Debugger.launch
-
 puts Sass.compile(file_text,$scss_option)
+puts "File compiled"

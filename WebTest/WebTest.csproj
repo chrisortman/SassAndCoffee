@@ -359,6 +359,7 @@
     <None Include="App_Compass\blueprint\stylesheets\blueprint\_rtl.scss" />
     <None Include="App_Compass\blueprint\stylesheets\blueprint\_scaffolding.scss" />
     <None Include="App_Compass\blueprint\stylesheets\blueprint\_typography.scss" />
+    <None Include="App_Compass\blueprint\stylesheets\blueprint\_utilities.scss" />
     <None Include="App_Compass\blueprint\stylesheets\_blueprint.scss" />
     <None Include="App_Compass\blueprint\templates\basic\ie.sass" />
     <None Include="App_Compass\blueprint\templates\basic\partials\_base.sass" />
